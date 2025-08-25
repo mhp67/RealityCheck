@@ -8,7 +8,6 @@
 /* Body */
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
     background-color: #f4f4f4;
 }
 
@@ -74,6 +73,10 @@ header nav ul li a {
 .news-grid article img {
     width: 100%;
     height: auto;
+}
+
+.news-grid article h4 {
+    margin-top: 5px;
 }
 
 /* Footer */
